@@ -15,7 +15,7 @@ The workflow is relatively simple. You need a Github account, and a premium Over
 - The original repository I copied is this: https://github.com/ximeraProject/ximeraFirstOverleafSteps.
 - The PDF you get from Overleaf is not accessible. A screen reader will fail to correctly read the equations.
 - A video essentially containing the instructions I outlined above can be found here: https://mediasite.osu.edu/Mediasite/Play/481087c0da1149479a41866fdb5d9eb71d
--The key files for Ximera deployment are: xmScripts (contains a configfile, and the script 'xmlatex' that Ximera needs), global.css (for look on the web), and .gitignore (update to the most recent version).
+- The key files for Ximera deployment are: xmScripts (contains a configfile, and the script 'xmlatex' that Ximera needs), global.css (for look on the web), and .gitignore (update to the most recent version).
 
 ## License
 The contents of this repository (unless otherwise stated) are in the Public Domain.
